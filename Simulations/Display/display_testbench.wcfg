@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="display_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="display_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="3480000000001fs"></ZoomEndTime>
+      <Cursor1Time time="4999900000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/display_tb/clk_8KHz" type="logic">
+      <obj_property name="ElementShortName">clk_8KHz</obj_property>
+      <obj_property name="ObjectShortName">clk_8KHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/one_mil" type="other">
+      <obj_property name="ElementShortName">one_mil</obj_property>
+      <obj_property name="ObjectShortName">one_mil</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/ten_mil" type="other">
+      <obj_property name="ElementShortName">ten_mil</obj_property>
+      <obj_property name="ObjectShortName">ten_mil</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/hundred_mil" type="other">
+      <obj_property name="ElementShortName">hundred_mil</obj_property>
+      <obj_property name="ObjectShortName">hundred_mil</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/one_sec" type="other">
+      <obj_property name="ElementShortName">one_sec</obj_property>
+      <obj_property name="ObjectShortName">one_sec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/hr_state" type="array">
+      <obj_property name="ElementShortName">hr_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">hr_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/anode" type="array">
+      <obj_property name="ElementShortName">anode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">anode[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_tb/cathode" type="array">
+      <obj_property name="ElementShortName">cathode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">cathode[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

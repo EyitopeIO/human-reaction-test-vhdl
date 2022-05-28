@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="clock_divider_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="clock_divider_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="100000000fs"></ZoomStartTime>
+      <ZoomEndTime time="348100000001fs"></ZoomEndTime>
+      <Cursor1Time time="62600000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="7" />
+   <wave_markers>
+      <marker time="125000000000" label="" />
+      <marker time="187600000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/clock_divider_tb/uut/clock_100MHz" type="logic">
+      <obj_property name="ElementShortName">clock_100MHz</obj_property>
+      <obj_property name="ObjectShortName">clock_100MHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/clock_1000Hz" type="logic">
+      <obj_property name="ElementShortName">clock_1000Hz</obj_property>
+      <obj_property name="ObjectShortName">clock_1000Hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/clock_1Hz" type="logic">
+      <obj_property name="ElementShortName">clock_1Hz</obj_property>
+      <obj_property name="ObjectShortName">clock_1Hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/clock_8000Hz" type="logic">
+      <obj_property name="ElementShortName">clock_8000Hz</obj_property>
+      <obj_property name="ObjectShortName">clock_8000Hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/line_1kHz" type="logic">
+      <obj_property name="ElementShortName">line_1kHz</obj_property>
+      <obj_property name="ObjectShortName">line_1kHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/line_8kHz" type="logic">
+      <obj_property name="ElementShortName">line_8kHz</obj_property>
+      <obj_property name="ObjectShortName">line_8kHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_divider_tb/uut/line_1Hz" type="logic">
+      <obj_property name="ElementShortName">line_1Hz</obj_property>
+      <obj_property name="ObjectShortName">line_1Hz</obj_property>
+   </wvobject>
+</wave_config>
