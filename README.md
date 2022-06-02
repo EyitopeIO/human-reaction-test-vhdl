@@ -6,6 +6,8 @@ This [video](demo/vhdl-demo.mp4) shows you the end result. Schematics [here](rtl
 ## Architecture
 ![Block diagram](demo/components.jpg)
 
+![State diagram](demo/state-diagram.jpg)
+
 ![Flow chart](demo/flow-chart.jpg).
 
 
